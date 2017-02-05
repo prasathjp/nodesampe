@@ -1,0 +1,22 @@
+{
+  "name": "nodesampe",
+  "version": "1.0.0",
+  "description": "Testing nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasathjp/nodesampe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasathjp/nodesampe/issues"
+  },
+  "homepage": "https://github.com/prasathjp/nodesampe#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
